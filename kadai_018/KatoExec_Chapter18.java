@@ -19,18 +19,18 @@ public class KatoExec_Chapter18 {
 		taro.execIntroduces();
 		//以下は出力結果の参考イメージと合わせるために実行する
 		//commonIntroduceメソッドを実行する
-		taro.commonIntroduce();
+		//taro.commonIntroduce();
 		//eachIntroduceメソッドを実行する
 		taro.eachIntroduce();
 		
 		
 		
 		ichiro.execIntroduces();
-		ichiro.commonIntroduce();
+		//ichiro.commonIntroduce();
 		ichiro.eachIntroduce();
 		
 		hanako.execIntroduces();
-		hanako.commonIntroduce();
+		//hanako.commonIntroduce();
 		hanako.eachIntroduce();
 		
 		
