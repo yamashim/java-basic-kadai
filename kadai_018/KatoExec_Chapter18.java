@@ -21,17 +21,17 @@ public class KatoExec_Chapter18 {
 		//commonIntroduceメソッドを実行する
 		//taro.commonIntroduce();
 		//eachIntroduceメソッドを実行する
-		taro.eachIntroduce();
+		//taro.eachIntroduce();
 		
 		
 		
 		ichiro.execIntroduces();
 		//ichiro.commonIntroduce();
-		ichiro.eachIntroduce();
+		//ichiro.eachIntroduce();
 		
 		hanako.execIntroduces();
 		//hanako.commonIntroduce();
-		hanako.eachIntroduce();
+		//hanako.eachIntroduce();
 		
 		
 	}

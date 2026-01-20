@@ -20,6 +20,9 @@ abstract class Kato_Chapter18 {
 	//紹介を実行する
 	public void execIntroduces() {
 		System.out.println("名前は" + this.familyName + this.givenName + "です");
+		this.commonIntroduce();
+		this.eachIntroduce();
+		
 	};
 
 }
